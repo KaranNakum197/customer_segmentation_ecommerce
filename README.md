@@ -66,3 +66,25 @@ An e-commerce company wants to segment its customers into meaningful groups base
   - Promote upselling to frequent low-spending customers
 
 ---
+
+## 🧰 Technologies Used
+
+- Python 3.x
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+
+---
+
+## 📌 How to Run
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/KaranNakum197/customer-segmentation-ecommerce.git
+cd customer-segmentation-ecommerce
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the notebook
+jupyter notebook Customer_Segmentation.ipynb
