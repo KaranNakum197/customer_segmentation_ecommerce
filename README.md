@@ -48,7 +48,7 @@ An e-commerce company wants to segment its customers into meaningful groups base
   - **Recency:** Days since last purchase
   - **Frequency:** Number of purchases
   - **Monetary:** Total amount spent
-- (Optional) Applied **PCA** for dimensionality reduction
+- Applied **PCA** for dimensionality reduction
 
 ### 4. 🤖 Model Building
 - Applied **K-Means Clustering**
